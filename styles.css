@@ -162,10 +162,12 @@ a:hover {
     margin-right: auto;
     background-color: white;
     border-radius: 10PX;
+    margin-bottom: 10px;
 }
 .mmg0125{
     display: flex;
     justify-content: space-around;
+    
 }
 .mmg0125 img{
         width: 100%;
@@ -236,6 +238,12 @@ h5{
 .iframe{
     display: flex;
     justify-content: center;
-    margin: 10px;
+}
+
+.iframe iframe{
+    width: 300px;
+    height: 210px;
     border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
