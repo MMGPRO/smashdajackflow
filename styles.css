@@ -233,3 +233,9 @@ h5{
         max-width: fit-content;
     }
 }
+.iframe{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 10px;
+}
