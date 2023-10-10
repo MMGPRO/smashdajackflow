@@ -191,7 +191,7 @@ a:hover {
      margin-bottom: auto;
     }
 .mmg88752 button{
-        width: 80px;
+        min-width: 80px;
         font-weight: bold;
         font-family: sans-serif;
         padding: 5px;
@@ -201,6 +201,7 @@ a:hover {
         background-color: rgb(9, 121, 250);
         color: white;
         cursor: pointer;
+        max-width: fit-content;
     }
 .mmg12035{
     text-align: center;
@@ -228,6 +229,7 @@ h5{
         width: 100px;
     }
     .mmg88752 button{
-        width: 100px;
+        min-width: 100px;
+        max-width: fit-content;
     }
 }
